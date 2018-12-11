@@ -1,0 +1,16 @@
+{
+  "name": "kurcach",
+  "description": "my coursework, my 1st site",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
